@@ -134,7 +134,15 @@ INSERT INTO admin (username, password) VALUES ('admin', 'admin123');
    ```
 
 ## 📸 Screenshots
+<img width="1366" height="720" alt="Screenshot 2025-09-07 140209" src="https://github.com/user-attachments/assets/b8b605a3-bf0e-4d7d-ba0d-08da24bd85af" />
 
+<img width="1366" height="720" alt="Screenshot 2025-09-07 140138" src="https://github.com/user-attachments/assets/c293d072-9c58-4988-9440-b8e3804f8a49" />
+
+<img width="1366" height="720" alt="Screenshot 2025-09-07 140220" src="https://github.com/user-attachments/assets/90d30d6d-ba66-4495-b992-d018522d429c" />
+
+<img width="1366" height="720" alt="Screenshot 2025-09-07 140230" src="https://github.com/user-attachments/assets/c31c3b58-8bea-4e99-8c3b-4d08946c79d5" />
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/e5153768-b4d6-4c26-a083-2cbb6c797b76" />
 
 ## 👨‍💻 Author
 Dilip Choudhary
