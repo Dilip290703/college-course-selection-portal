@@ -130,7 +130,7 @@ INSERT INTO admin (username, password) VALUES ('admin', 'admin123');
 5. Run project on server.  
 6. Open in browser:  
    ```
-   http://localhost:9090/Login/homepage.jsp
+   http://localhost:9090/Login/jsp/homepage.jsp
    ```
 
 ## 📸 Screenshots
