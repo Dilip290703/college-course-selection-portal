@@ -137,6 +137,5 @@ INSERT INTO admin (username, password) VALUES ('admin', 'admin123');
 
 
 ## 👨‍💻 Author
-- **Your Name (Dilip Choudhary)**  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio/GitHub: [Your GitHub Profile](https://github.com/your-username)
+Dilip Choudhary
+
